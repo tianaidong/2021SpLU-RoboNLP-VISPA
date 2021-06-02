@@ -7,13 +7,13 @@ The dataset contains different trigger and zoomer question pairs based on the vi
 
 Here is one example taken from our manually filtered dataset: ![alt text](/example/plane_example.PNG)
 
-1. Is it a plane? (Yes)
+0. Is it a plane? (Yes)
 
-2. One of the 3 planes in front? (Yes)  'Trigger' Question
+1. One of the 3 planes in front? (Yes)  'Trigger' Question
 
-3. Is it the one in the middle? (Yes) 'Zoomer' Question
+2. Is it the one in the middle? (Yes) 'Zoomer' Question
 
 # Dataset 
-The annotated datapoints are provided in both JSON lines and txt files. 
+The ids of zoomer question are provided in the format: Game_id _ Postion (eg. the above example is 85113_2). 
 # Contact
 For any comments or questions, please email [Dota](mailto:tianai.dong@studenti.unitn.it) :)
