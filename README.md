@@ -5,7 +5,7 @@ This is the repository of the dataset VISPA, which is introduced in the [paper l
 
 The dataset contains different trigger and zoomer question pairs based on the visual property that the questions rely on (e.g. color, number), which are automatically extracted from the GuessWhat?! games. It also contains manually filtered questions from the automatically extracted trigger and zoomer question pairs. Each example is verified by two annotators.
 
-Here is one example taken from our manually dataset: ![alt text](/example/plane_example.PNG)
+Here is one example taken from our manually filtered dataset: ![alt text](/example/plane_example.PNG)
 
 1. Is it a plane? (Yes)
 
