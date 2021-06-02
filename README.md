@@ -14,6 +14,6 @@ Here is one example taken from our manually filtered dataset: ![alt text](/examp
 2. Is it the one in the middle? (Yes) 'Zoomer' Question
 
 # Dataset 
-The ids of zoomer question are provided in the format: Game_id _ Postion (eg. the above example is 85113_2). 
+The ids of zoomer questions are provided in the format: Game_id _ Postion (eg. the above example is 85113_2). 
 # Contact
 For any comments or questions, please email [Dota](mailto:tianai.dong@studenti.unitn.it) :)
